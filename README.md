@@ -18,7 +18,7 @@ https://webee.technion.ac.il/~yoav/research/turbulence_distortion.html
 
 https://engineering.purdue.edu/ChanGroup/project_turbulence_TurbSim_v1.html
 
-##Link to Simulation method from "Accelerating atmospheric turbulence simulation via learned phase-to-space transform"
+## Link to Simulation method from "Accelerating atmospheric turbulence simulation via learned phase-to-space transform"
 
 https://github.com/Riponcs/TurbulenceSimulatorPython
 
