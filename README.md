@@ -22,7 +22,7 @@ https://engineering.purdue.edu/ChanGroup/project_turbulence_TurbSim_v1.html
 
 https://github.com/Riponcs/TurbulenceSimulatorPython
 
-Please cite the corresponding works if you utilize any of these simualators
+Please cite the corresponding works if you utilize any of these simulators
 
 ## If you use our work, please use the following citation
 ```
