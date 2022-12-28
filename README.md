@@ -23,3 +23,13 @@ https://engineering.purdue.edu/ChanGroup/project_turbulence_TurbSim_v1.html
 https://github.com/Riponcs/TurbulenceSimulatorPython
 
 Please cite the corresponding works if you utilize any of these simualators
+
+## If you use our work, please use the following citation
+```
+@article{nair2022comparison,
+  title={A comparison of different atmospheric turbulence simulation methods for image restoration},
+  author={Nair, Nithin Gopalakrishnan and Mei, Kangfu and Patel, Vishal M},
+  journal={arXiv preprint arXiv:2204.08974},
+  year={2022}
+}
+```
