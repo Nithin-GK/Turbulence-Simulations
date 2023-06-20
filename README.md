@@ -1,4 +1,4 @@
-# Turbulence-Simulations
+# [ICIP '22]A comparison of different atmospheric turbulence simulation methods for image restoration
 
 
 ## Link to pretrained models
